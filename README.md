@@ -1,2 +1,4 @@
 # repo1
-just example
+just an example
+hello everyone
+hope you enjoy this session
